@@ -9,4 +9,4 @@
 ## Roadmap
 
 ### Q1 2025
-- **ArtificialAnimationTrack** - A drop in replacement for the `AnimationTrack` class in ROBLOX.
+- **ArtificialAnimationTrack** - A drop in replacement for the `AnimationTrack` class in ROBLOX that takes `KeyframeSequence` as an input!
