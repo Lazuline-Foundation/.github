@@ -4,4 +4,4 @@
 
 ## About Us
 
-**Lazuline Corporation** is an independent organization of talented developers seeking to push the boundaries of ROBLOX by creating innovative, open source solutions.
+**Lazuline Corporation** is an independent organization of talented developers seeking to push the boundaries of Roblox development by creating innovative, open source solutions.
