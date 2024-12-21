@@ -12,6 +12,6 @@
 - **ArtificialAnimationTrack** - A drop in replacement for the `AnimationTrack` class in ROBLOX that takes `KeyframeSequence` as an input!
 
 <p align="center">
-    <small style="color: grey;">Copyright &copy; Luna Revell 2024</small>
+  <small>Copyright &copy; Luna Revell 2024</small>
 </p>
 
