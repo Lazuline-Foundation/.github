@@ -7,5 +7,5 @@
 **The Lazuline Foundation** is an independent organization of talented developers seeking to push the boundaries of ROBLOX Development by creating innovative, open source solutions.
 
 <p align="center">
-  <small>Copyright &copy; Luna Revell 2024</small>
+  <small>Copyright &copy; Luna Revell 2025</small>
 </p>
